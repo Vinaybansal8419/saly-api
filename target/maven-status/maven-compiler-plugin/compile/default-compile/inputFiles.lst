@@ -1,0 +1,7 @@
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/service/SpringDataSalaryService.java
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/model/Message.java
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/config/OpenAPIConfig.java
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/contollers/SpringDataController.java
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/SalaryApplication.java
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/model/Employee.java
+/home/vagrant/salary-api/src/main/java/com/opstree/microservice/salary/repository/EmployeeRepository.java
